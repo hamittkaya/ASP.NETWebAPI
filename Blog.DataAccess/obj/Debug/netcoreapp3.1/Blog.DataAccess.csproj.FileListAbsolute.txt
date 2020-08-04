@@ -1,0 +1,15 @@
+C:\Users\ceren\Desktop\BlogSite\Blog.DataAccess\bin\Debug\netcoreapp3.1\Blog.DataAccess.deps.json
+C:\Users\ceren\Desktop\BlogSite\Blog.DataAccess\bin\Debug\netcoreapp3.1\Blog.DataAccess.dll
+C:\Users\ceren\Desktop\BlogSite\Blog.DataAccess\obj\Debug\netcoreapp3.1\Blog.DataAccess.csprojAssemblyReference.cache
+C:\Users\ceren\Desktop\BlogSite\Blog.DataAccess\obj\Debug\netcoreapp3.1\Blog.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ceren\Desktop\BlogSite\Blog.DataAccess\obj\Debug\netcoreapp3.1\Blog.DataAccess.AssemblyInfo.cs
+C:\Users\ceren\Desktop\BlogSite\Blog.DataAccess\bin\Debug\netcoreapp3.1\Blog.DataAccess.runtimeconfig.json
+C:\Users\ceren\Desktop\BlogSite\Blog.DataAccess\bin\Debug\netcoreapp3.1\Blog.DataAccess.runtimeconfig.dev.json
+C:\Users\ceren\Desktop\BlogSite\Blog.DataAccess\obj\Debug\netcoreapp3.1\Blog.DataAccess.genruntimeconfig.cache
+C:\Users\ceren\Desktop\BlogSite\Blog.DataAccess\obj\Debug\netcoreapp3.1\Blog.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ceren\Desktop\BlogSite\Blog.DataAccess\bin\Debug\netcoreapp3.1\Blog.DataAccess.pdb
+C:\Users\ceren\Desktop\BlogSite\Blog.DataAccess\bin\Debug\netcoreapp3.1\Blog.Entities.dll
+C:\Users\ceren\Desktop\BlogSite\Blog.DataAccess\bin\Debug\netcoreapp3.1\Blog.Entities.pdb
+C:\Users\ceren\Desktop\BlogSite\Blog.DataAccess\obj\Debug\netcoreapp3.1\Blog.DataAccess.csproj.CopyComplete
+C:\Users\ceren\Desktop\BlogSite\Blog.DataAccess\obj\Debug\netcoreapp3.1\Blog.DataAccess.dll
+C:\Users\ceren\Desktop\BlogSite\Blog.DataAccess\obj\Debug\netcoreapp3.1\Blog.DataAccess.pdb

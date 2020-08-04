@@ -1,0 +1,9 @@
+C:\Users\ceren\Desktop\BlogSite\Blog.Core\bin\Debug\netcoreapp3.1\Blog.Core.deps.json
+C:\Users\ceren\Desktop\BlogSite\Blog.Core\bin\Debug\netcoreapp3.1\Blog.Core.dll
+C:\Users\ceren\Desktop\BlogSite\Blog.Core\obj\Debug\netcoreapp3.1\Blog.Core.csprojAssemblyReference.cache
+C:\Users\ceren\Desktop\BlogSite\Blog.Core\obj\Debug\netcoreapp3.1\Blog.Core.AssemblyInfoInputs.cache
+C:\Users\ceren\Desktop\BlogSite\Blog.Core\obj\Debug\netcoreapp3.1\Blog.Core.AssemblyInfo.cs
+C:\Users\ceren\Desktop\BlogSite\Blog.Core\bin\Debug\netcoreapp3.1\Blog.Core.pdb
+C:\Users\ceren\Desktop\BlogSite\Blog.Core\obj\Debug\netcoreapp3.1\Blog.Core.csproj.CoreCompileInputs.cache
+C:\Users\ceren\Desktop\BlogSite\Blog.Core\obj\Debug\netcoreapp3.1\Blog.Core.dll
+C:\Users\ceren\Desktop\BlogSite\Blog.Core\obj\Debug\netcoreapp3.1\Blog.Core.pdb

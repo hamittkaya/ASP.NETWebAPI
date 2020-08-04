@@ -1,0 +1,9 @@
+C:\Users\ceren\Desktop\BlogSite\Blog.DTO\bin\Debug\netcoreapp3.1\Blog.DTO.deps.json
+C:\Users\ceren\Desktop\BlogSite\Blog.DTO\bin\Debug\netcoreapp3.1\Blog.DTO.dll
+C:\Users\ceren\Desktop\BlogSite\Blog.DTO\bin\Debug\netcoreapp3.1\Blog.DTO.pdb
+C:\Users\ceren\Desktop\BlogSite\Blog.DTO\obj\Debug\netcoreapp3.1\Blog.DTO.csprojAssemblyReference.cache
+C:\Users\ceren\Desktop\BlogSite\Blog.DTO\obj\Debug\netcoreapp3.1\Blog.DTO.csproj.CoreCompileInputs.cache
+C:\Users\ceren\Desktop\BlogSite\Blog.DTO\obj\Debug\netcoreapp3.1\Blog.DTO.AssemblyInfoInputs.cache
+C:\Users\ceren\Desktop\BlogSite\Blog.DTO\obj\Debug\netcoreapp3.1\Blog.DTO.AssemblyInfo.cs
+C:\Users\ceren\Desktop\BlogSite\Blog.DTO\obj\Debug\netcoreapp3.1\Blog.DTO.dll
+C:\Users\ceren\Desktop\BlogSite\Blog.DTO\obj\Debug\netcoreapp3.1\Blog.DTO.pdb

@@ -1,0 +1,16 @@
+C:\Users\ceren\Desktop\BlogSite\Blog.Business\bin\Debug\netcoreapp3.1\Blog.Business.deps.json
+C:\Users\ceren\Desktop\BlogSite\Blog.Business\bin\Debug\netcoreapp3.1\Blog.Business.dll
+C:\Users\ceren\Desktop\BlogSite\Blog.Business\bin\Debug\netcoreapp3.1\Blog.Business.pdb
+C:\Users\ceren\Desktop\BlogSite\Blog.Business\obj\Debug\netcoreapp3.1\Blog.Business.csprojAssemblyReference.cache
+C:\Users\ceren\Desktop\BlogSite\Blog.Business\obj\Debug\netcoreapp3.1\Blog.Business.AssemblyInfoInputs.cache
+C:\Users\ceren\Desktop\BlogSite\Blog.Business\obj\Debug\netcoreapp3.1\Blog.Business.AssemblyInfo.cs
+C:\Users\ceren\Desktop\BlogSite\Blog.Business\obj\Debug\netcoreapp3.1\Blog.Business.dll
+C:\Users\ceren\Desktop\BlogSite\Blog.Business\obj\Debug\netcoreapp3.1\Blog.Business.pdb
+C:\Users\ceren\Desktop\BlogSite\Blog.Business\bin\Debug\netcoreapp3.1\Blog.DataAccess.dll
+C:\Users\ceren\Desktop\BlogSite\Blog.Business\bin\Debug\netcoreapp3.1\Blog.Entities.dll
+C:\Users\ceren\Desktop\BlogSite\Blog.Business\bin\Debug\netcoreapp3.1\Blog.DataAccess.pdb
+C:\Users\ceren\Desktop\BlogSite\Blog.Business\bin\Debug\netcoreapp3.1\Blog.Entities.pdb
+C:\Users\ceren\Desktop\BlogSite\Blog.Business\obj\Debug\netcoreapp3.1\Blog.Business.csproj.CopyComplete
+C:\Users\ceren\Desktop\BlogSite\Blog.Business\bin\Debug\netcoreapp3.1\Blog.DTO.dll
+C:\Users\ceren\Desktop\BlogSite\Blog.Business\bin\Debug\netcoreapp3.1\Blog.DTO.pdb
+C:\Users\ceren\Desktop\BlogSite\Blog.Business\obj\Debug\netcoreapp3.1\Blog.Business.csproj.CoreCompileInputs.cache

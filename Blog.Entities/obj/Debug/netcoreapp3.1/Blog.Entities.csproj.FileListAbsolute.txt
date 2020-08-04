@@ -1,0 +1,9 @@
+C:\Users\ceren\Desktop\BlogSite\Blog.Entities\obj\Debug\netcoreapp3.1\Blog.Entities.AssemblyInfoInputs.cache
+C:\Users\ceren\Desktop\BlogSite\Blog.Entities\obj\Debug\netcoreapp3.1\Blog.Entities.AssemblyInfo.cs
+C:\Users\ceren\Desktop\BlogSite\Blog.Entities\bin\Debug\netcoreapp3.1\Blog.Entities.deps.json
+C:\Users\ceren\Desktop\BlogSite\Blog.Entities\bin\Debug\netcoreapp3.1\Blog.Entities.dll
+C:\Users\ceren\Desktop\BlogSite\Blog.Entities\bin\Debug\netcoreapp3.1\Blog.Entities.pdb
+C:\Users\ceren\Desktop\BlogSite\Blog.Entities\obj\Debug\netcoreapp3.1\Blog.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ceren\Desktop\BlogSite\Blog.Entities\obj\Debug\netcoreapp3.1\Blog.Entities.dll
+C:\Users\ceren\Desktop\BlogSite\Blog.Entities\obj\Debug\netcoreapp3.1\Blog.Entities.pdb
+C:\Users\ceren\Desktop\BlogSite\Blog.Entities\obj\Debug\netcoreapp3.1\Blog.Entities.csprojAssemblyReference.cache
