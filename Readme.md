@@ -3,4 +3,5 @@ I used the technologies I used before. (Mssql,Repository design pattern, Ioc Con
 I would like to add Log,Cache to the project,on the Frontend side I would love to use Ajax.
 I used the entity framework code first.
 Creating a migration for the database will be sufficient
+Link to Frontend https://github.com/hamittkaya/ASP.NETWebAPI-Frontend/tree/master
 I did the project in a short time, sorry for the mistakes :)
